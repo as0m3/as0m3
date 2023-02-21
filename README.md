@@ -27,4 +27,5 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<img align="left" src="https://github-readme-stats-as0m3.vercel.app/api/top-langs?username=as0m3&theme=blue-green&hide_progress=true" />
+<p><img align="left" src="https://github-readme-stats-as0m3.vercel.app/api?username=as0m3&show_icons=true&theme=blue-green" /></p>
+<p><img align="left" src="https://github-readme-stats-as0m3.vercel.app/api/top-langs?username=as0m3&theme=blue-green&layout=compact" /></p>
